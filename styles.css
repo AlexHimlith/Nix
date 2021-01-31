@@ -1,0 +1,19 @@
+header {
+  height: 50px;
+  text-align: center;
+}
+
+nav {
+  float: left;
+  width: 130px;
+  text-align: center;
+}
+
+main {
+  margin-left: 132px;
+  text-align: center;
+}
+
+footer {
+  height: 50px;
+}
